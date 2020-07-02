@@ -1,0 +1,480 @@
+Epoch 1/120
+46942/46942 [==============================] - 7s 148us/step - loss: 3.0629
+
+Epoch 00001: loss improved from inf to 3.06288, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-01-with-3.0629.hdf5
+Epoch 2/120
+46942/46942 [==============================] - 7s 149us/step - loss: 2.7166
+
+Epoch 00002: loss improved from 3.06288 to 2.71660, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-02-with-2.7166.hdf5
+Epoch 3/120
+46942/46942 [==============================] - 7s 158us/step - loss: 2.5793
+
+Epoch 00003: loss improved from 2.71660 to 2.57933, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-03-with-2.5793.hdf5
+Epoch 4/120
+46942/46942 [==============================] - 7s 155us/step - loss: 2.5201
+
+Epoch 00004: loss improved from 2.57933 to 2.52010, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-04-with-2.5201.hdf5
+Epoch 5/120
+46942/46942 [==============================] - 7s 155us/step - loss: 2.4833
+
+Epoch 00005: loss improved from 2.52010 to 2.48326, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-05-with-2.4833.hdf5
+Epoch 6/120
+46942/46942 [==============================] - 7s 156us/step - loss: 2.4569
+
+Epoch 00006: loss improved from 2.48326 to 2.45690, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-06-with-2.4569.hdf5
+Epoch 7/120
+46942/46942 [==============================] - 7s 157us/step - loss: 2.4363
+
+Epoch 00007: loss improved from 2.45690 to 2.43634, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-07-with-2.4363.hdf5
+Epoch 8/120
+46942/46942 [==============================] - 7s 157us/step - loss: 2.4172
+
+Epoch 00008: loss improved from 2.43634 to 2.41722, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-08-with-2.4172.hdf5
+Epoch 9/120
+46942/46942 [==============================] - 7s 157us/step - loss: 2.4031
+
+Epoch 00009: loss improved from 2.41722 to 2.40311, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-09-with-2.4031.hdf5
+Epoch 10/120
+46942/46942 [==============================] - 7s 157us/step - loss: 2.3900
+
+Epoch 00010: loss improved from 2.40311 to 2.39004, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-10-with-2.3900.hdf5
+Epoch 11/120
+46942/46942 [==============================] - 7s 159us/step - loss: 2.3783
+
+Epoch 00011: loss improved from 2.39004 to 2.37831, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-11-with-2.3783.hdf5
+Epoch 12/120
+46942/46942 [==============================] - 8s 167us/step - loss: 2.3665
+
+Epoch 00012: loss improved from 2.37831 to 2.36650, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-12-with-2.3665.hdf5
+Epoch 13/120
+46942/46942 [==============================] - 7s 158us/step - loss: 2.3567
+
+Epoch 00013: loss improved from 2.36650 to 2.35671, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-13-with-2.3567.hdf5
+Epoch 14/120
+46942/46942 [==============================] - 8s 169us/step - loss: 2.3442
+
+Epoch 00014: loss improved from 2.35671 to 2.34423, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-14-with-2.3442.hdf5
+Epoch 15/120
+46942/46942 [==============================] - 8s 180us/step - loss: 2.3350
+
+Epoch 00015: loss improved from 2.34423 to 2.33499, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-15-with-2.3350.hdf5
+Epoch 16/120
+46942/46942 [==============================] - 11s 232us/step - loss: 2.3261
+
+Epoch 00016: loss improved from 2.33499 to 2.32614, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-16-with-2.3261.hdf5
+Epoch 17/120
+46942/46942 [==============================] - 9s 192us/step - loss: 2.3161
+
+Epoch 00017: loss improved from 2.32614 to 2.31609, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-17-with-2.3161.hdf5
+Epoch 18/120
+46942/46942 [==============================] - 8s 168us/step - loss: 2.3075
+
+Epoch 00018: loss improved from 2.31609 to 2.30746, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-18-with-2.3075.hdf5
+Epoch 19/120
+46942/46942 [==============================] - 8s 168us/step - loss: 2.2953
+
+Epoch 00019: loss improved from 2.30746 to 2.29530, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-19-with-2.2953.hdf5
+Epoch 20/120
+46942/46942 [==============================] - 8s 168us/step - loss: 2.2873
+
+Epoch 00020: loss improved from 2.29530 to 2.28733, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-20-with-2.2873.hdf5
+Epoch 21/120
+46942/46942 [==============================] - 8s 174us/step - loss: 2.2795
+
+Epoch 00021: loss improved from 2.28733 to 2.27947, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-21-with-2.2795.hdf5
+Epoch 22/120
+46942/46942 [==============================] - 8s 163us/step - loss: 2.2684
+
+Epoch 00022: loss improved from 2.27947 to 2.26836, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-22-with-2.2684.hdf5
+Epoch 23/120
+46942/46942 [==============================] - 8s 160us/step - loss: 2.2589
+
+Epoch 00023: loss improved from 2.26836 to 2.25891, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-23-with-2.2589.hdf5
+Epoch 24/120
+46942/46942 [==============================] - 7s 159us/step - loss: 2.2505
+
+Epoch 00024: loss improved from 2.25891 to 2.25048, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-24-with-2.2505.hdf5
+Epoch 25/120
+46942/46942 [==============================] - 8s 161us/step - loss: 2.2424
+
+Epoch 00025: loss improved from 2.25048 to 2.24239, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-25-with-2.2424.hdf5
+Epoch 26/120
+46942/46942 [==============================] - 8s 164us/step - loss: 2.2348
+
+Epoch 00026: loss improved from 2.24239 to 2.23475, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-26-with-2.2348.hdf5
+Epoch 27/120
+46942/46942 [==============================] - 8s 161us/step - loss: 2.2235
+
+Epoch 00027: loss improved from 2.23475 to 2.22351, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-27-with-2.2235.hdf5
+Epoch 28/120
+46942/46942 [==============================] - 8s 163us/step - loss: 2.2145
+
+Epoch 00028: loss improved from 2.22351 to 2.21452, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-28-with-2.2145.hdf5
+Epoch 29/120
+46942/46942 [==============================] - 7s 160us/step - loss: 2.2057
+
+Epoch 00029: loss improved from 2.21452 to 2.20568, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-29-with-2.2057.hdf5
+Epoch 30/120
+46942/46942 [==============================] - 8s 160us/step - loss: 2.1979
+
+Epoch 00030: loss improved from 2.20568 to 2.19788, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-30-with-2.1979.hdf5
+Epoch 31/120
+46942/46942 [==============================] - 7s 159us/step - loss: 2.1898
+
+Epoch 00031: loss improved from 2.19788 to 2.18982, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-31-with-2.1898.hdf5
+Epoch 32/120
+46942/46942 [==============================] - 8s 166us/step - loss: 2.1801
+
+Epoch 00032: loss improved from 2.18982 to 2.18011, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-32-with-2.1801.hdf5
+Epoch 33/120
+46942/46942 [==============================] - 8s 161us/step - loss: 2.1712
+
+Epoch 00033: loss improved from 2.18011 to 2.17120, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-33-with-2.1712.hdf5
+Epoch 34/120
+46942/46942 [==============================] - 8s 165us/step - loss: 2.1619
+
+Epoch 00034: loss improved from 2.17120 to 2.16189, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-34-with-2.1619.hdf5
+Epoch 35/120
+46942/46942 [==============================] - 8s 165us/step - loss: 2.1519
+
+Epoch 00035: loss improved from 2.16189 to 2.15189, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-35-with-2.1519.hdf5
+Epoch 36/120
+46942/46942 [==============================] - 8s 164us/step - loss: 2.1460
+
+Epoch 00036: loss improved from 2.15189 to 2.14601, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-36-with-2.1460.hdf5
+Epoch 37/120
+46942/46942 [==============================] - 8s 168us/step - loss: 2.1360
+
+Epoch 00037: loss improved from 2.14601 to 2.13605, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-37-with-2.1360.hdf5
+Epoch 38/120
+46942/46942 [==============================] - 8s 162us/step - loss: 2.1291
+
+Epoch 00038: loss improved from 2.13605 to 2.12905, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-38-with-2.1291.hdf5
+Epoch 39/120
+46942/46942 [==============================] - 7s 159us/step - loss: 2.1186
+
+Epoch 00039: loss improved from 2.12905 to 2.11864, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-39-with-2.1186.hdf5
+Epoch 40/120
+46942/46942 [==============================] - 7s 159us/step - loss: 2.1082
+
+Epoch 00040: loss improved from 2.11864 to 2.10820, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-40-with-2.1082.hdf5
+Epoch 41/120
+46942/46942 [==============================] - 8s 160us/step - loss: 2.0978
+
+Epoch 00041: loss improved from 2.10820 to 2.09779, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-41-with-2.0978.hdf5
+Epoch 42/120
+46942/46942 [==============================] - 8s 163us/step - loss: 2.0904
+
+Epoch 00042: loss improved from 2.09779 to 2.09039, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-42-with-2.0904.hdf5
+Epoch 43/120
+46942/46942 [==============================] - 9s 187us/step - loss: 2.0847
+
+Epoch 00043: loss improved from 2.09039 to 2.08466, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-43-with-2.0847.hdf5
+Epoch 44/120
+46942/46942 [==============================] - 8s 174us/step - loss: 2.0745
+
+Epoch 00044: loss improved from 2.08466 to 2.07453, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-44-with-2.0745.hdf5
+Epoch 45/120
+46942/46942 [==============================] - 8s 164us/step - loss: 2.0653
+
+Epoch 00045: loss improved from 2.07453 to 2.06534, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-45-with-2.0653.hdf5
+Epoch 46/120
+46942/46942 [==============================] - 8s 160us/step - loss: 2.0563
+
+Epoch 00046: loss improved from 2.06534 to 2.05632, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-46-with-2.0563.hdf5
+Epoch 47/120
+46942/46942 [==============================] - 8s 163us/step - loss: 2.0473
+
+Epoch 00047: loss improved from 2.05632 to 2.04729, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-47-with-2.0473.hdf5
+Epoch 48/120
+46942/46942 [==============================] - 7s 159us/step - loss: 2.0400
+
+Epoch 00048: loss improved from 2.04729 to 2.03996, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-48-with-2.0400.hdf5
+Epoch 49/120
+46942/46942 [==============================] - 8s 160us/step - loss: 2.0293
+
+Epoch 00049: loss improved from 2.03996 to 2.02932, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-49-with-2.0293.hdf5
+Epoch 50/120
+46942/46942 [==============================] - 8s 161us/step - loss: 2.0179
+
+Epoch 00050: loss improved from 2.02932 to 2.01789, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-50-with-2.0179.hdf5
+Epoch 51/120
+46942/46942 [==============================] - 8s 161us/step - loss: 2.0127
+
+Epoch 00051: loss improved from 2.01789 to 2.01269, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-51-with-2.0127.hdf5
+Epoch 52/120
+46942/46942 [==============================] - 8s 160us/step - loss: 2.0025
+
+Epoch 00052: loss improved from 2.01269 to 2.00248, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-52-with-2.0025.hdf5
+Epoch 53/120
+46942/46942 [==============================] - 7s 160us/step - loss: 1.9942
+
+Epoch 00053: loss improved from 2.00248 to 1.99416, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-53-with-1.9942.hdf5
+Epoch 54/120
+46942/46942 [==============================] - 8s 163us/step - loss: 1.9850
+
+Epoch 00054: loss improved from 1.99416 to 1.98496, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-54-with-1.9850.hdf5
+Epoch 55/120
+46942/46942 [==============================] - 7s 160us/step - loss: 1.9754
+
+Epoch 00055: loss improved from 1.98496 to 1.97540, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-55-with-1.9754.hdf5
+Epoch 56/120
+46942/46942 [==============================] - 7s 159us/step - loss: 1.9695
+
+Epoch 00056: loss improved from 1.97540 to 1.96952, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-56-with-1.9695.hdf5
+Epoch 57/120
+46942/46942 [==============================] - 8s 160us/step - loss: 1.9600
+
+Epoch 00057: loss improved from 1.96952 to 1.96005, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-57-with-1.9600.hdf5
+Epoch 58/120
+46942/46942 [==============================] - 8s 160us/step - loss: 1.9504
+
+Epoch 00058: loss improved from 1.96005 to 1.95041, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-58-with-1.9504.hdf5
+Epoch 59/120
+46942/46942 [==============================] - 8s 162us/step - loss: 1.9422
+
+Epoch 00059: loss improved from 1.95041 to 1.94217, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-59-with-1.9422.hdf5
+Epoch 60/120
+46942/46942 [==============================] - 8s 160us/step - loss: 1.9344
+
+Epoch 00060: loss improved from 1.94217 to 1.93441, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-60-with-1.9344.hdf5
+Epoch 61/120
+46942/46942 [==============================] - 8s 162us/step - loss: 1.9283
+
+Epoch 00061: loss improved from 1.93441 to 1.92828, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-61-with-1.9283.hdf5
+Epoch 62/120
+46942/46942 [==============================] - 8s 161us/step - loss: 1.9166
+
+Epoch 00062: loss improved from 1.92828 to 1.91659, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-62-with-1.9166.hdf5
+Epoch 63/120
+46942/46942 [==============================] - 8s 160us/step - loss: 1.9117
+
+Epoch 00063: loss improved from 1.91659 to 1.91174, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-63-with-1.9117.hdf5
+Epoch 64/120
+46942/46942 [==============================] - 8s 160us/step - loss: 1.9029
+
+Epoch 00064: loss improved from 1.91174 to 1.90294, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-64-with-1.9029.hdf5
+Epoch 65/120
+46942/46942 [==============================] - 7s 159us/step - loss: 1.8969
+
+Epoch 00065: loss improved from 1.90294 to 1.89695, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-65-with-1.8969.hdf5
+Epoch 66/120
+46942/46942 [==============================] - 7s 158us/step - loss: 1.8881
+
+Epoch 00066: loss improved from 1.89695 to 1.88808, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-66-with-1.8881.hdf5
+Epoch 67/120
+46942/46942 [==============================] - 7s 158us/step - loss: 1.8803
+
+Epoch 00067: loss improved from 1.88808 to 1.88033, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-67-with-1.8803.hdf5
+Epoch 68/120
+46942/46942 [==============================] - 7s 160us/step - loss: 1.8683
+
+Epoch 00068: loss improved from 1.88033 to 1.86829, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-68-with-1.8683.hdf5
+Epoch 69/120
+46942/46942 [==============================] - 7s 160us/step - loss: 1.8645
+
+Epoch 00069: loss improved from 1.86829 to 1.86455, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-69-with-1.8645.hdf5
+Epoch 70/120
+46942/46942 [==============================] - 8s 161us/step - loss: 1.8564
+
+Epoch 00070: loss improved from 1.86455 to 1.85637, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-70-with-1.8564.hdf5
+Epoch 71/120
+46942/46942 [==============================] - 7s 159us/step - loss: 1.8518
+
+Epoch 00071: loss improved from 1.85637 to 1.85181, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-71-with-1.8518.hdf5
+Epoch 72/120
+46942/46942 [==============================] - 7s 159us/step - loss: 1.8444
+
+Epoch 00072: loss improved from 1.85181 to 1.84440, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-72-with-1.8444.hdf5
+Epoch 73/120
+46942/46942 [==============================] - 7s 159us/step - loss: 1.8394
+
+Epoch 00073: loss improved from 1.84440 to 1.83937, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-73-with-1.8394.hdf5
+Epoch 74/120
+46942/46942 [==============================] - 8s 163us/step - loss: 1.8319
+
+Epoch 00074: loss improved from 1.83937 to 1.83192, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-74-with-1.8319.hdf5
+Epoch 75/120
+46942/46942 [==============================] - 8s 161us/step - loss: 1.8217
+
+Epoch 00075: loss improved from 1.83192 to 1.82171, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-75-with-1.8217.hdf5
+Epoch 76/120
+46942/46942 [==============================] - 8s 176us/step - loss: 1.8163
+
+Epoch 00076: loss improved from 1.82171 to 1.81632, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-76-with-1.8163.hdf5
+Epoch 77/120
+46942/46942 [==============================] - 8s 174us/step - loss: 1.8077
+
+Epoch 00077: loss improved from 1.81632 to 1.80769, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-77-with-1.8077.hdf5
+Epoch 78/120
+46942/46942 [==============================] - 8s 164us/step - loss: 1.8043
+
+Epoch 00078: loss improved from 1.80769 to 1.80427, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-78-with-1.8043.hdf5
+Epoch 79/120
+46942/46942 [==============================] - 8s 174us/step - loss: 1.7950
+
+Epoch 00079: loss improved from 1.80427 to 1.79502, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-79-with-1.7950.hdf5
+Epoch 80/120
+46942/46942 [==============================] - 7s 157us/step - loss: 1.7892
+
+Epoch 00080: loss improved from 1.79502 to 1.78923, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-80-with-1.7892.hdf5
+Epoch 81/120
+46942/46942 [==============================] - 7s 155us/step - loss: 1.7850
+
+Epoch 00081: loss improved from 1.78923 to 1.78501, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-81-with-1.7850.hdf5
+Epoch 82/120
+46942/46942 [==============================] - 7s 153us/step - loss: 1.7763
+
+Epoch 00082: loss improved from 1.78501 to 1.77628, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-82-with-1.7763.hdf5
+Epoch 83/120
+46942/46942 [==============================] - 7s 153us/step - loss: 1.7660
+
+Epoch 00083: loss improved from 1.77628 to 1.76599, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-83-with-1.7660.hdf5
+Epoch 84/120
+46942/46942 [==============================] - 8s 170us/step - loss: 1.7678
+
+Epoch 00084: loss did not improve from 1.76599
+Epoch 85/120
+46942/46942 [==============================] - 8s 162us/step - loss: 1.7620
+
+Epoch 00085: loss improved from 1.76599 to 1.76203, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-85-with-1.7620.hdf5
+Epoch 86/120
+46942/46942 [==============================] - 8s 160us/step - loss: 1.7537
+
+Epoch 00086: loss improved from 1.76203 to 1.75375, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-86-with-1.7537.hdf5
+Epoch 87/120
+46942/46942 [==============================] - 7s 159us/step - loss: 1.7460
+
+Epoch 00087: loss improved from 1.75375 to 1.74598, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-87-with-1.7460.hdf5
+Epoch 88/120
+46942/46942 [==============================] - 7s 152us/step - loss: 1.7437
+
+Epoch 00088: loss improved from 1.74598 to 1.74370, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-88-with-1.7437.hdf5
+Epoch 89/120
+46942/46942 [==============================] - 8s 163us/step - loss: 1.7411
+
+Epoch 00089: loss improved from 1.74370 to 1.74112, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-89-with-1.7411.hdf5
+Epoch 90/120
+46942/46942 [==============================] - 8s 160us/step - loss: 1.7255
+
+Epoch 00090: loss improved from 1.74112 to 1.72550, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-90-with-1.7255.hdf5
+Epoch 91/120
+46942/46942 [==============================] - 8s 161us/step - loss: 1.7275
+
+Epoch 00091: loss did not improve from 1.72550
+Epoch 92/120
+46942/46942 [==============================] - 7s 154us/step - loss: 1.7233
+
+Epoch 00092: loss improved from 1.72550 to 1.72332, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-92-with-1.7233.hdf5
+Epoch 93/120
+46942/46942 [==============================] - 7s 152us/step - loss: 1.7168
+
+Epoch 00093: loss improved from 1.72332 to 1.71683, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-93-with-1.7168.hdf5
+Epoch 94/120
+46942/46942 [==============================] - 8s 171us/step - loss: 1.7118
+
+Epoch 00094: loss improved from 1.71683 to 1.71181, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-94-with-1.7118.hdf5
+Epoch 95/120
+46942/46942 [==============================] - 7s 159us/step - loss: 1.7029
+
+Epoch 00095: loss improved from 1.71181 to 1.70288, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-95-with-1.7029.hdf5
+Epoch 96/120
+46942/46942 [==============================] - 8s 162us/step - loss: 1.7008
+
+Epoch 00096: loss improved from 1.70288 to 1.70081, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-96-with-1.7008.hdf5
+Epoch 97/120
+46942/46942 [==============================] - 7s 157us/step - loss: 1.6965
+
+Epoch 00097: loss improved from 1.70081 to 1.69650, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-97-with-1.6965.hdf5
+Epoch 98/120
+46942/46942 [==============================] - 7s 154us/step - loss: 1.6948
+
+Epoch 00098: loss improved from 1.69650 to 1.69478, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-98-with-1.6948.hdf5
+Epoch 99/120
+46942/46942 [==============================] - 7s 154us/step - loss: 1.6890
+
+Epoch 00099: loss improved from 1.69478 to 1.68902, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-99-with-1.6890.hdf5
+Epoch 100/120
+46942/46942 [==============================] - 7s 153us/step - loss: 1.6879
+
+Epoch 00100: loss improved from 1.68902 to 1.68788, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-100-with-1.6879.hdf5
+Epoch 101/120
+46942/46942 [==============================] - 7s 157us/step - loss: 1.6900
+
+Epoch 00101: loss did not improve from 1.68788
+Epoch 102/120
+46942/46942 [==============================] - 7s 159us/step - loss: 1.6864
+
+Epoch 00102: loss improved from 1.68788 to 1.68638, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-102-with-1.6864.hdf5
+Epoch 103/120
+46942/46942 [==============================] - 7s 153us/step - loss: 1.6795
+
+Epoch 00103: loss improved from 1.68638 to 1.67949, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-103-with-1.6795.hdf5
+Epoch 104/120
+46942/46942 [==============================] - 7s 157us/step - loss: 1.6708
+
+Epoch 00104: loss improved from 1.67949 to 1.67078, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-104-with-1.6708.hdf5
+Epoch 105/120
+46942/46942 [==============================] - 8s 165us/step - loss: 1.6656
+
+Epoch 00105: loss improved from 1.67078 to 1.66557, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-105-with-1.6656.hdf5
+Epoch 106/120
+46942/46942 [==============================] - 7s 156us/step - loss: 1.6646
+
+Epoch 00106: loss improved from 1.66557 to 1.66457, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-106-with-1.6646.hdf5
+Epoch 107/120
+46942/46942 [==============================] - 7s 154us/step - loss: 1.6646
+
+Epoch 00107: loss did not improve from 1.66457
+Epoch 108/120
+46942/46942 [==============================] - 7s 154us/step - loss: 1.6600
+
+Epoch 00108: loss improved from 1.66457 to 1.66004, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-108-with-1.6600.hdf5
+Epoch 109/120
+46942/46942 [==============================] - 8s 160us/step - loss: 1.6555
+
+Epoch 00109: loss improved from 1.66004 to 1.65552, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-109-with-1.6555.hdf5
+Epoch 110/120
+46942/46942 [==============================] - 8s 162us/step - loss: 1.6506
+
+Epoch 00110: loss improved from 1.65552 to 1.65062, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-110-with-1.6506.hdf5
+Epoch 111/120
+46942/46942 [==============================] - 8s 161us/step - loss: 1.6472
+
+Epoch 00111: loss improved from 1.65062 to 1.64723, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-111-with-1.6472.hdf5
+Epoch 112/120
+46942/46942 [==============================] - 8s 165us/step - loss: 1.6455
+
+Epoch 00112: loss improved from 1.64723 to 1.64547, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-112-with-1.6455.hdf5
+Epoch 113/120
+46942/46942 [==============================] - 8s 164us/step - loss: 1.6454
+
+Epoch 00113: loss improved from 1.64547 to 1.64544, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-113-with-1.6454.hdf5
+Epoch 114/120
+46942/46942 [==============================] - 7s 152us/step - loss: 1.6442
+
+Epoch 00114: loss improved from 1.64544 to 1.64422, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-114-with-1.6442.hdf5
+Epoch 115/120
+46942/46942 [==============================] - 7s 153us/step - loss: 1.6411
+
+Epoch 00115: loss improved from 1.64422 to 1.64109, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-115-with-1.6411.hdf5
+Epoch 116/120
+46942/46942 [==============================] - 7s 156us/step - loss: 1.6318
+
+Epoch 00116: loss improved from 1.64109 to 1.63179, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-116-with-1.6318.hdf5
+Epoch 117/120
+46942/46942 [==============================] - 7s 158us/step - loss: 1.6367
+
+Epoch 00117: loss did not improve from 1.63179
+Epoch 118/120
+46942/46942 [==============================] - 7s 157us/step - loss: 1.6250
+
+Epoch 00118: loss improved from 1.63179 to 1.62500, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-118-with-1.6250.hdf5
+Epoch 119/120
+46942/46942 [==============================] - 8s 162us/step - loss: 1.6253
+
+Epoch 00119: loss did not improve from 1.62500
+Epoch 120/120
+46942/46942 [==============================] - 7s 156us/step - loss: 1.6220
+
+Epoch 00120: loss improved from 1.62500 to 1.62204, saving model to /Users/linuxoid/Desktop/VUZICH/AI/lab3/training_checkpoints_1/best-weights-on-120-with-1.6220.hdf5
